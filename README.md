@@ -88,7 +88,6 @@ Create a Pull Request
 📧 Contact
 Have questions or feedback? Reach out:
 
-📬 Email: akshatr056@gmail.com
 
 🌐 Website: 
 
